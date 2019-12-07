@@ -2,7 +2,7 @@
 
 ## General
 * [Machine Learning PhD Applications — Everything You Need to Know](https://timdettmers.com/2018/11/26/phd-applications/)
-* [Applying to Ph.D. Programs in Computer Science])
+* [Applying to Ph.D. Programs in Computer Science](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)
 * [HOWTO: Get into grad school for science, engineering, math and computer science](http://matt.might.net/articles/how-to-apply-and-get-in-to-graduate-school-in-science-mathematics-engineering-or-computer-science/)
 * [Student Perspectives on Applying to NLP PhD Programs](https://blog.nelsonliu.me/2019/10/24/student-perspectives-on-applying-to-nlp-phd-programs/#statement-of-purpose)
 
