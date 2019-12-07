@@ -1,5 +1,5 @@
 # CS Grad School Application - Reading List
-This is a compilation of the resources I have used for applications in 2019.
+This is a compilation of the resources I have used for my applications in 2019.
 
 ## General
 * [Machine Learning PhD Applications — Everything You Need to Know](https://timdettmers.com/2018/11/26/phd-applications/)
