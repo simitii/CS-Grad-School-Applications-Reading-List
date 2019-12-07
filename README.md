@@ -1,4 +1,4 @@
-# CS Grad School Application - Reading List
+# CS Grad School Applications - Reading List
 This is a compilation of the resources I have used for my applications in 2019.
 
 ## General
