@@ -32,3 +32,5 @@ This is a compilation of the resources I have used for my applications in 2019.
 
 ## School Rankings
 * [CSRanking.org](http://csrankings.org)
+
+## [Questions to Ask a Prospective Ph.D. Advisor on Visit Day, With Thorough and Forthright Explanations](https://blog.ml.cmu.edu/2020/03/02/questions-to-ask-a-prospective-ph-d-advisor-on-visit-day-with-thorough-and-forthright-explanations/)
